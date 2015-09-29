@@ -25,3 +25,8 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+/root/.npm/
+/home/**
+.DS_Store*
+.hubot_history
+>>>>>>> initial commit
