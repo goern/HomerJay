@@ -1,8 +1,9 @@
 [
+  "hubot-redis-brain",
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-google-images",
   "hubot-maps",
   "hubot-rules",
+  "hubot-github-issues",
   "hubot-github-assign-issues"
 ]
